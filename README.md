@@ -1,7 +1,7 @@
 Pasty
 =====
 
-Pasty is a library to provide applications with "serverless" state management.
+Pasty is a library to provide "serverless" state management for games.
 
 
 
